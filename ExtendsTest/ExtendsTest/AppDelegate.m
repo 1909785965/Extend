@@ -14,7 +14,7 @@
 
 @implementation AppDelegate
 
-//hello github
+//hello github user token
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
